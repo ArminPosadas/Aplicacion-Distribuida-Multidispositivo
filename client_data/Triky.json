@@ -1,0 +1,11 @@
+{
+    "name": "Triky",
+    "type": "Dark",
+    "level": 50,
+    "life_points": 50,
+    "attack": 50,
+    "defense": 50,
+    "spattack": 50,
+    "spdefense": 50,
+    "speed": 50
+}
